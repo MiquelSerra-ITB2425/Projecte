@@ -1,6 +1,8 @@
+
+# Inicio
 # **AP - Trabajo con git y despliegue de código inicial - Grupo 7** 
 
-Objetivo
+***Objetivo***
 
 En esta actividad será necesario trabajar con la herramienta github. A partir de un código web, conmitarlo en un repositorio, desplegarlo sobre los sistemas y aplicar cambios en el código para solucionar un “bug” que tiene el código.
 
@@ -21,11 +23,11 @@ En esta actividad será necesario trabajar con la herramienta github. A partir d
 
 ## Apache2
 
-En nuestro servidor deberemos instalar el Apacahe2, por ende usaremos el siguiente comando
+*En nuestro servidor deberemos instalar el Apacahe2, por ende usaremos el siguiente comando*
 
 ![Instalacion de Apache](Imagenes/Instalacion-Apache.png "Imagen de la instalación del Apache2")
 
-Revisaremos el estado del servicio que acabamos de instalar como es la de Apache2
+*Revisaremos el estado del servicio que acabamos de instalar como es la de Apache2*
 
 ![Miramos el estado Apache](Imagenes/Status-apache.png "Imagen del estado del servicio del Apache2")
 
@@ -73,6 +75,8 @@ Podemos abrir nuestro navegador e ingresar a la siguiente pagina;
 Donde nos deja ingresar usuarios, editar los que ya existen o incluso eliminarlos 
 
 ![Ingresar la página](Imagenes/Pagina.png "Ingresamos a la pagina web")
+
+[Vuelve al inicio](#inicio)
 
 Si visulizamos la Base de Datos que teniamos antes, podriamos ver que los usuarios que ingresar y se registran en nuestra pagina se añadiran automaticamente a la tabla de nuestra base de datos
 
