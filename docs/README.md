@@ -13,6 +13,16 @@ En esta actividad será necesario trabajar con la herramienta github. A partir d
 - Giuseppe Suarez
 - Kristian Toledo
 
+## Índice
+
+- [Herramientas y/o servicios](#herramientas-y--o-servicios-que-hemos-utilizados)
+- [Procedimiento de Instalación y configuración del servidor](#procedimiento-de-instalación-y-configuración-del-servidor)
+  - [Apache2](#apache2)
+  - [Git](#git)
+  - [Base de Datos - MySQL](#base-de-datos---mysql)
+  - [PHP](#php)
+- [Comprobación final](#comprobación)
+
 ## Herramientas y / o servicios que hemos utilizados
 
 - Apache2
