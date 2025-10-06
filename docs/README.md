@@ -1,4 +1,4 @@
-<img width="694" height="221" alt="image" src="https://github.com/user-attachments/assets/4f4566e8-c61b-4d78-bcf6-b169c520646a" /># AP - Trabajo con git y despliegue de código inicial - Grupo 7 
+# AP - Trabajo con git y despliegue de código inicial - Grupo 7 
 
 Objetivo
 
