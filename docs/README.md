@@ -11,7 +11,7 @@ En esta actividad será necesario trabajar con la herramienta github. A partir d
 - Bryan Aguilera
 - Miquel Serra
 - Giuseppe Suarez
-- Kristian Toledo
+- Victor Serrano
 
 ## Índice
 
