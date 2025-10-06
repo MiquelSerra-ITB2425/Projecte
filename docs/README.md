@@ -23,4 +23,4 @@ En esta actividad será necesario trabajar con la herramienta github. A partir d
 
 En nuestro servidor deberemos instalar el Apacahe2, por ende usaremos el siguiente comando
 
-![Imagen de la instalación del Apache2] ()
+![Imagen de la instalación del Apache2] (https://github.com/MiquelSerra-ITB2425/Projecte/blob/e0d2132ec0074a6a04882bd2ae4c291cd2385fe0/docs/Imagenes/Instalaci%C3%B3n-Apache.png)
