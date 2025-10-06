@@ -24,3 +24,14 @@ En esta actividad será necesario trabajar con la herramienta github. A partir d
 En nuestro servidor deberemos instalar el Apacahe2, por ende usaremos el siguiente comando
 
 ![Instalacion de Apache](Imagenes/Instalacion-Apache.png "Imagen de la instalación del Apache2")
+
+Revisaremos el estado del servicio que acabamos de instalar como es la de Apache2
+
+![Status Apache](Imagenes/Status-apache.png "Imagen del estado del servicio del Apache2")
+
+Instalaremos el Git para que podamos hacer el commit de los archivos
+
+![Instalacion Git](Imagenes//Instalacion-git.png "Instalamso el Git y podemos hacer el commit de los archivos")
+
+
+
