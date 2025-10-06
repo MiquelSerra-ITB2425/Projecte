@@ -1,0 +1,19 @@
+<?php
+include 'db.php';
+
+if (isset($_GET['id'])) {
+    $id = (int)$_GET['id'];
+    $conn->query("DELETE FROM users WHERE id=$id");
+}
+
+header("Location: index.php");
+exit;
+?>
+CREATE DATABASE crud_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE crud_db;
+
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL
+);
