@@ -42,6 +42,11 @@ En esta actividad será necesario trabajar con la herramienta github. A partir d
 
 ![Miramos el estado Apache](Imagenes/Status-apache.png "Imagen del estado del servicio del Apache2")
 
+*Entorno de Desarrollo:*
+
+![Entorno de desaroolo](Imagenes/Entorno-de-desarollo.png "Mostramos el entorno de desarollo")
+
+
 ## Git
 
 *Instalaremos el Git para que podamos hacer el commit de los archivos*
@@ -49,6 +54,7 @@ En esta actividad será necesario trabajar con la herramienta github. A partir d
 ![Instalacion Git](Imagenes/Instalacion-git.png "Instalamos el Git y podemos hacer el commit de los archivos")
 
 *Estos archivos lo subiremos al git, haremos el commit*
+*Este es nuestro entorno de Produccion*
 
 ![Archivos de nuestro Git](Imagenes/Archivos.png "Archivos con el cual haremos el commit")
 
